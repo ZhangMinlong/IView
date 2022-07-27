@@ -1,4 +1,4 @@
-# xlx-element
+# element
 
 ## Project setup
 ```
